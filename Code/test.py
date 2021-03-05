@@ -1,3 +1,3 @@
 import numpy as np
-from numpy import linalg as linalg as LA
+from numpy import linalg as LA
 
